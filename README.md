@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deeppatel2610&label=Profile%20views&color=0e75b6&style=flat" alt="deeppatel2610" /> </p>
 
-- 🌱 I’m currently learning **app development**
+- 🌱 I’m currently learning **fluter development**
 
 - 📫 How to reach me **deeppatel100267@gmail.com**
 
